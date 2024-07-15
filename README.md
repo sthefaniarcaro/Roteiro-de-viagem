@@ -11,5 +11,3 @@ Versão mobile:
 
 ![image](https://github.com/user-attachments/assets/045ce1a2-9628-42b5-a246-1158fad39439)
 
-# Linguagens
-html5 logo

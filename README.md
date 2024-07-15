@@ -3,4 +3,8 @@
 
 Projeto: https://www.figma.com/community/file/1392277205162897872
 
+Versão desktop:
+![image](https://github.com/user-attachments/assets/6738be9f-0d3a-4a76-b725-0bd54c3b2c8b)
+
+Versão mobile:
 ![image](https://github.com/user-attachments/assets/045ce1a2-9628-42b5-a246-1158fad39439)
